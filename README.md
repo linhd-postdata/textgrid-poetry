@@ -2,7 +2,7 @@
 
 This corpus is a subset in JSON format of the available poems in [TexGrid](https://textgrid.de/en/digitale-bibliothek) (accessed on June 1st, 2020).
 
-It containes more than 100 000 annotated poems from over 200 authors.
+It containes more than 100 000 unannotated poems from over 200 authors.
 
 ## Statistics
 
